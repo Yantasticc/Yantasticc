@@ -7,6 +7,6 @@
 </a>
 
 <a href="https://www.instagram.com/imyash_kalamkhede/">
-  <img height="50" src="https://www.iconfinder.com/icons/5022553/network_learn_info_information_media_interaction_icon?coming-from=related-results"/>
+  <img height="50" src="https://cdn0.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_learn-more-512.png"/>
 </a>
 

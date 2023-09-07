@@ -36,7 +36,7 @@
 ```yaml
 name: Yash Kalamkhede
 located_in: India
-current_job: Full Stack Developer
+current_learning: Full Stack Developer
 gmail: yashkalamkhede2002@gmail.com (do reach-out for project development collaboration)
 education:
   [

@@ -36,7 +36,7 @@
 ```yaml
 name: Yash Kalamkhede
 located_in: India
-current_learning: Full Stack Development(react & tailwind css)
+current_learning: Full Stack Development(next.js & tailwind css)
 gmail: yashkalamkhede2002@gmail.com (do reach-out for project development collaboration)
 education:
   [

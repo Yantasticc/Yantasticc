@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src= "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img src= "https://user-images.githubusercontent.com/86292101/259846661-7a04f039-446f-43a4-ab01-0e5f46dd87ac.gif">
 </p>
 
 ---

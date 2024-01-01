@@ -33,7 +33,7 @@
 
 <div align="center">
   <h1>Hi there, I'm Yash Kalamkhede 👋</h1>
-  <p>Aspiring Software Engineer | Full Stack Developer | Content Writer</p>
+  <p>Aspiring Software Engineer | Full Stack Developer |  "Code & Conquer"</p>
 </div>
 
 ## About Me
